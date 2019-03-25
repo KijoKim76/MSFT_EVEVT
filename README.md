@@ -1,5 +1,4 @@
 # MSFT_EVEVT
-
 WINDOWS 10 IOT CORE HANDS ON LAB
 2019. MAR. 25
 
@@ -35,3 +34,5 @@ COMING NEXT…..
 • Continue Windows IoT Core with manufacturing and securities topics  
 • Specially add more Intelligent Edge topics like Azure IoT technologies and Windows ML and target device platform would be Windows and non-Windows 
 • The sessions are not dependent on Windows but will cover Intelligent Edge on Windows and Non-Windows products 
+
+
