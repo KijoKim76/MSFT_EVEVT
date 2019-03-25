@@ -1,5 +1,5 @@
 ---
-title: WINDOWS 10 IOT CORE HANDS ON LAB
+title: WINDOWS 10 IOT CORE HANDS ON LAB , 2019.3. 25 Seoul Micorsoft Korea. 
 author: Kijo Kim
 ms.author: kijokim
 
@@ -7,7 +7,7 @@ This Hands-on LAB is targeted to engineers who are interested in developing inte
 keywords: Windows 10 IoT Core, 
 ---
 # AGENDA
-This Hands-on LAB is targeted to engineers who are interested in developing intelligent edge solution on IoT Core. If you complete the LAB then you are ready to use develop your applications and build custom image with it. - 2019. MAR. 25-
+This Hands-on LAB is targeted to engineers who are interested in developing intelligent edge solution on IoT Core. If you complete the LAB then you are ready to use develop your applications and build custom image with it. 
 
 # CONTENTS
 
